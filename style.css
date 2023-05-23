@@ -274,3 +274,45 @@ text-align: start;
     color: blue;
     
   }
+
+  .la-spinner{
+    color: #0b0b01;
+
+    font-size: x-large
+    
+  }
+
+  .la-burn{
+
+    color: #bf1818;
+    font-size: 60px;
+    
+  }
+
+  .la-money-check-alt{
+    color: #2014cc;
+    font-size: 60px;
+    
+  }
+
+  .la-wallet{
+
+    color: #061e1e;
+    font-size: 60px;
+  }
+
+.la-linkedin{
+
+  color: #0077b5;
+  font-size: 30px;
+}
+
+.la-twitter{
+  color:#1DA1F2 ;
+  font-size: 30px;
+}
+
+.la-instagram{
+  color: #cf55d7;
+  font-size: 35px;
+}
